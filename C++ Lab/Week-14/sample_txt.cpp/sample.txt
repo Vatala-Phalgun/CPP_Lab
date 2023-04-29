@@ -1,0 +1,7 @@
+Today C++ is the most widely used System Programming Language.
+Most of the state of the art software have been implemented using C++.
+Easy to learn
+Structured language
+It produces efficient programs.
+It can handle low-level activities.
+It can be compiled on a variety of computers.
